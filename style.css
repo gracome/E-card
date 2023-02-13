@@ -1,0 +1,168 @@
+body {
+    font-family: "MTN Brighter Sans", sans-serif !important;
+    font-style: normal !important;
+    overflow-x: hidden;
+    
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+    }
+
+.baniere{
+    background-image: url('images/barnière.png');
+    height: 1000px;
+    color: #fff !important;
+}
+#nav{
+    display: flex !important;
+    margin-bottom: 150px;
+}
+#nav .nav-link{
+    padding-top: 45px;
+    padding-left: 20px;
+    font-size: 14px;
+    
+}
+#nav .nav-link .active{
+    background-color: #997A00;  
+     border-radius:500px;
+     text-align: center;
+     display: inherit;
+     width: 78px;
+}
+
+.boldTitle{
+    font-size: 50px;
+    font-weight: 700;
+}
+a.btn{
+    border-radius: 500px;
+}
+
+
+.carousel-caption{
+    bottom: 40% !important;
+    text-align: inherit !important;
+    left: 10% !important;
+    right: inherit !important;
+}
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    height: 12px !important;
+    width: 12px !important;
+}
+.mod{
+    font-size: 28px;
+    font-weight: 600;
+    color: #000;
+}
+#card{
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0),  0px 5px 10px 0px #000000;
+    border-radius: 10px;
+    
+}
+.col a {
+    color: inherit !important;
+}
+.card{
+    border: inherit !important;
+}
+
+#offcanvasExample button{
+    border-radius: 200px;
+    background-color: #00678F;
+    color: #fff;
+    border-color: transparent;
+    padding: 8px;
+}
+.offcanvas{
+    width: 50% !important;
+}
+
+.offcanvas-header{
+    box-shadow: 0px 4px 6px rgba(54, 64, 73, 0.2) !important;
+    padding: 16px !important;
+
+}
+.offcanvas {
+--bs-offcanvas-padding-y: inherit !important; 
+}
+
+
+.rs{
+    background-color: #FFCC00;
+    padding: 10px 25px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+footer{
+    color: #fff;
+}
+footer ul li {
+    list-style: none;
+}
+
+#offcanvasScrolling a.btn{
+    width: 350px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 28%;
+
+  }
+  
+  .search-input {
+    
+    border: none;
+    font-size: 16px;
+    background: #1E1E1E;
+    border: 2px solid #F1F1F1;
+    border-radius: 50px;
+   height: 45px;
+   width: 400px;
+  }
+
+.rsF{
+    margin-left: 20px;
+}
+
+
+.dropdown button{
+    background: #1E1E1E;
+    border: 2px solid #F1F1F1;
+    border-radius: 50px;
+   height: 45px;
+   color: #fff !important;
+   width: 335px;
+   text-align: inherit;
+}
+
+.dropdown-toggle::after {
+  content: inherit !important;
+}
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: "MTN Brighter Sans";
+    src: url("./MTNBrighterSans_Latin_webformats/MTNBrighterSans-Regular.ttf");
+  }

@@ -1,0 +1,20 @@
+<svg width="57" height="51" viewBox="0 0 57 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_805_8185" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="26" width="57" height="20">
+<path d="M56.2323 26.415L56.2323 45.1256L0.100623 45.1256L0.100624 26.415L56.2323 26.415Z" fill="#730000"/>
+</mask>
+<g mask="url(#mask0_805_8185)">
+<circle cx="27.0658" cy="26.9654" r="18.1602" fill="#F00000"/>
+</g>
+<mask id="mask1_805_8185" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="8" width="55" height="20">
+<path d="M56.2323 8.80518L56.2323 27.5157L2.30187 27.5157L2.30187 8.80517L56.2323 8.80518Z" fill="#007305"/>
+</mask>
+<g mask="url(#mask1_805_8185)">
+<circle cx="27.0658" cy="26.9654" r="18.1602" fill="#FFCC00"/>
+</g>
+<mask id="mask2_805_8185" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="0" width="19" height="51">
+<path d="M7.80496 0H25.4149V50.6286H7.80496V0Z" fill="#007305"/>
+</mask>
+<g mask="url(#mask2_805_8185)">
+<circle cx="27.0658" cy="26.9654" r="18.1602" fill="#007305"/>
+</g>
+</svg>
